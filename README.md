@@ -7,4 +7,9 @@ Here are some of the features of eBuks:
 - Search for books by title, author, or ISBN
 - View book information, including the title, author, cover image, and a link to the book's page on Open Library
 
+## Tecnologies
+
+- Preact: a fast and lightweight alternative to React
+- Typescript: a superset of JavaScript that adds static types
+
 ![](./public/ebuks.jpg)
